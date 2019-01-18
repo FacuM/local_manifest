@@ -4,7 +4,7 @@
   <project name="Exynos7870/android_device_samsung_j7velte" path="device/samsung/j7velte" remote="github" revision="pie" />
   <project name="FacuM/android_device_samsung_j7xelte" path="device/samsung/j7xelte" remote="github" revision="lineage-16.0" />
   <project name="Exynos7870/android_device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="github" revision="lineage-16.0-sid" />
-  <project name="Exynos7870/android_kernel_samsung_universal7870" path="kernel/samsung/exynos7870" remote="github" revision="pie" />
+  <project name="FacuM/android_kernel_samsung_universal7870" path="kernel/samsung/exynos7870" remote="github" revision="pie" />
   <project name="Exynos7870/android_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-16.0" />
   <project name="Exynos7870/proprietary_vendor_samsung_on7xelte" path="vendor/samsung/on7xelte" remote="github" revision="lineage-16.0" />
   <project name="Oves786/android_vendor_samsung_j7xelte" path="vendor/samsung/j7xelte" remote="github" revision="lineage15.1" />
